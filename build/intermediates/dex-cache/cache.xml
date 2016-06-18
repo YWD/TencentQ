@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Learn\project\TencentQQ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cb248362e5ae9ecaf805b0cccde033d6f8002ef4">
+        <dex dex="E:\Learn\project\TencentQQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e401d18e18e972671a013f7048b807c39a05ae64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wendong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Learn\project\TencentQQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_50b7118bd0a67c211dfeec22c1ed827b6a2e2e24\classes.dex" />
+    </item>
+    <item
+        jar="E:\Learn\project\TencentQQ\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="E:\Learn\project\TencentQQ\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_f0f13cab56c4bf158bc7ea17e5ddf91e3dc5afc7\classes.dex" />
+    </item>
+    <item
+        jar="E:\Learn\project\TencentQQ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9a87c6aa4be22464e76aba9f92b7b89c8b01e3cf">
+        <dex dex="E:\Learn\project\TencentQQ\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2caaf65b4ac689371e1fb6c4e3e9b3ed4994385a\classes.dex" />
+    </item>
+
+</items>
